@@ -1,7 +1,8 @@
 # ArduinoRobotArm
 I did this project just for fun inbetween college semesters. It is an Arduino Robot Arm made from foam board. I used the VarSpeedServo libarary so that the servo speed can be adjusted. It also detaches the servos inbetween movements to save power and reduce jitter.  
 Parts List:  
-Arduino Uno  
+Arduino Nano
+Zip tie for claw
 Dollar Tree foam board  
 4x SG90 servos  
 470uF and 47uF capacitors  
