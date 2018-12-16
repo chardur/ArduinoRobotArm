@@ -9,7 +9,7 @@ Dollar Tree foam board
 bread board & wires  
 2.5 Amp USB phone charger battery  
 Video:  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T1y2Pp_oBX0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+[Arduino Robot Arm Video](https://youtu.be/T1y2Pp_oBX0)  
 Pics:  
 <p>
 <img src="robotArm.jpg" alt="image" style="width:800px;">
