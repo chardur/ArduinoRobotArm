@@ -7,6 +7,7 @@ Dollar Tree foam board
 4x SG90 servos  
 470uF and 47uF capacitors  
 4x 10k resistors  
+4x 10K ohm Potentiometer  
 bread board & wires  
 2.5 Amp USB phone charger battery  
 Video:  
